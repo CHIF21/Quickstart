@@ -8,7 +8,7 @@ Diese Repository ist eine einfache Anleitung zur Verwendung von GitHub.
 3. [Was sind Issues?](#e3)
 4. [GitHub Desktop](#e4)
 
-### Anleitung
+### Anleitungen
 1. [Editieren auf GitHub](#a1)
 2. [Pull Requests senden](#a2)
 3. [Herunterladen von GitHub](#a3)
