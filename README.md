@@ -1,6 +1,6 @@
 
 # GitHub-Quickstart
-Dieses Repository ist eine einfache Anleitung zur Verwendung von GitHub.
+Diese Repository ist eine einfache Anleitung zur Verwendung von GitHub.
 
 ### Erklärungen
 1. [Wie funktioniert GitHub?](#e1)
