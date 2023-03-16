@@ -20,11 +20,7 @@ Diese Repository ist eine einfache Anleitung zur Verwendung von GitHub.
 ## Erkärung 1: Wie funktioniert GitHub?
 GitHub ist eine Online-Plattform zur Zusammenarbeit an Projekten, insbesondere für die Softwareentwicklung. Hier können Benutzer ihre Projekte online hosten, den Quellcode verwalten, zusammenarbeiten und gemeinsam an Projekten arbeiten.
 
-Die Funktionsweise von GitHub basiert auf der Verwendung von Repositories, die als zentraler Speicherort für Code und andere Dateien eines Projekts dienen. Benutzer können Repositories erstellen, in denen sie ihren Code hosten können, und dann andere Benutzer einladen, daran mitzuarbeiten oder Feedback zu geben.
-
-Für die Zusammenarbeit an einem Projekt können Benutzer Pull Requests erstellen, um Änderungen vorzuschlagen und Feedback von anderen Benutzern einzuholen. Andere Benutzer können dann Kommentare und Vorschläge zu den Änderungen machen, und der ursprüngliche Autor kann sie basierend auf dem Feedback verbessern.
-
-Zusätzlich können Benutzer auf GitHub Issues erstellen, um Feedback und Vorschläge zu sammeln oder um Probleme oder Bugs zu melden. Issues können kategorisiert, priorisiert und kommentiert werden, um eine effektive Zusammenarbeit zu gewährleisten.
+Die Funktionsweise von GitHub basiert auf der Verwendung von Repositories, die als zentraler Speicherort für Code und andere Dateien eines Projekts dienen. Für die Zusammenarbeit an einem Projekt können Benutzer Pull Requests erstellen, um Änderungen vorzuschlagen und Feedback von anderen Benutzern einzuholen. Zusätzlich können Benutzer auf GitHub Issues erstellen, um Feedback und Vorschläge zu sammeln oder um Probleme oder Bugs zu melden.
 
 <a name="e2"></a>
 ## Erklärung 2: Was sind Repositorys?
