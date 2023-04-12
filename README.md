@@ -77,9 +77,9 @@ Es ist wichtig zu beachten, dass ein Pull Request nicht automatisch akzeptiert w
 ## Anleitung 3: Herunterladen von GitHub
 Das Herunterladen von Code aus einem GitHub-Repository kann auf verschiedene Arten erfolgen:
 
-Herunterladen einer ZIP-Datei: Wenn du nur den Code herunterladen möchtest, kannst du auf der Repository-Startseite auf den grünen "Code" -Button klicken und dann "Download ZIP" auswählen. Dadurch wird eine ZIP-Datei des Repositorys heruntergeladen, die du dann entpacken und verwenden kannst.
+Herunterladen einer ZIP-Datei: Wenn du nur den Code herunterladen möchtest, kannst du auf der Repository-Startseite auf den grünen "Code" - Button klicken und dann "Download ZIP" auswählen. Dadurch wird eine ZIP-Datei des Repositorys heruntergeladen, die du dann entpacken und verwenden kannst.
 
-Klonen des Repositorys: Wenn du die Git-Versionierung des Repositorys benötigst, kannst du das Repository auf deinen Computer klonen. Klicke dazu auf der Repository-Startseite auf den grünen "Code" -Button und kopiere die URL des Repositorys. Öffne dann die Git-Bash oder das Terminal auf deinem Computer, navigiere zu dem Ordner, in dem du das Repository speichern möchtest, und führe den Befehl "git clone [URL des Repositorys]" aus. Dadurch wird eine lokale Kopie des Repositorys erstellt, die du bearbeiten und aktualisieren kannst.
+Klonen des Repositorys: Wenn du die Git-Versionierung des Repositorys benötigst, kannst du das Repository auf deinen Computer klonen. Klicke dazu auf der Repository-Startseite auf den grünen "Code" - Button und kopiere die URL des Repositorys. Öffne dann die Git-Bash oder das Terminal auf deinem Computer, navigiere zu dem Ordner, in dem du das Repository speichern möchtest, und führe den Befehl "git clone [URL des Repositorys]" aus. Dadurch wird eine lokale Kopie des Repositorys erstellt, die du bearbeiten und aktualisieren kannst.
 
 Es ist wichtig zu beachten, dass du möglicherweise die erforderlichen Berechtigungen benötigst, um auf bestimmte Repositorys zuzugreifen. Einige Repositorys können öffentlich sein und für jeden zugänglich sein, während andere privat sind und nur bestimmte Benutzer darauf zugreifen können.
 
